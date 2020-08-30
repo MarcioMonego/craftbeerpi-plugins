@@ -429,3 +429,9 @@ AutoStartFermenter:
     api: 3.0
     author: Joe Richards
     repo_url: https://github.com/viyh/cbpi-autostart-fermenter
+
+PauseStep:
+    description: Simple Pause with orientation plugin for Craftbeerpi 
+    api: 3.0
+    author: Márcio Mônego
+    repo_url: https://github.com/marciomonego/PauseStep.git
