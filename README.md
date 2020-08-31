@@ -16,4 +16,4 @@ UniquePluginName:
   repo_url: https://github.com/YourRepo/YourPluginCode.git  
 
   This way you can combine the original list with the original urls allowing you to update your plugins a including your own.   
-  YOU will never new records from original Craftbeerpi repository. But you may watch the original one and see when it changes.
+  YOU will never see new records from original Craftbeerpi repository. But you may watch the original one and see when it changes.
