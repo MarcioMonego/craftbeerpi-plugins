@@ -3,3 +3,9 @@ PauseStep:
     api: 3.0
     author: Márcio Mônego
     repo_url: https://github.com/marciomonego/PauseStep.git
+    
+ChangePluginsRepository:
+    description: This plugin changes the Git repository/plugins file for your Craftbeerpi plugins to one you choose
+    api: 3.0
+    author: Márcio Mônego
+    repo_url: https://github.com/marciomonego/ChangePluginsRepository.git
