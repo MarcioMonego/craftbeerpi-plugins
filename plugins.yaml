@@ -1,5 +1,5 @@
 AdvancedRecipeImporter:
-    description: This plugin changes the de default Craftbeerpi recipe import behaviour with many features like stop clearing the previous recipe, create water intake with Flowmeter plugin, create mash in step with strike temperature from beerxml
+    description: This plugin changes the default Craftbeerpi recipe import behaviour with many features like stop clearing the previous recipe, create water intake with Flowmeter plugin, create mash in step with strike temperature from beerxml
     api: 3.0
     author: Márcio Mônego
     repo_url: https://github.com/MarcioMonego/AdvancedRecipeImporter.git
